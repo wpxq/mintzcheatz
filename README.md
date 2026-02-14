@@ -18,11 +18,9 @@ Custom-made landing page for a single client (MintzCheatz), focusing on high per
 | ---- | ----- |
 | Next.js 14 | Framework & Routing |
 | Tailwind CSS | Styling & Animations |
-| Lucide React | Icons |
 | Vercel | Deployment & Hosting |
 
 ### Features
 * **Full Responsive Design** - Works on mobile, tablet, and desktop
 * **Dynamic UI** - Smooth hover effects and modern dark theme
 * **Optimized Images** - Blazing fast loading with Next/Image
-* **Discord Integration** - Direct link to community support
