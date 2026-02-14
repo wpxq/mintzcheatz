@@ -18,14 +18,6 @@ export const metadata: Metadata = {
     description: "The most reliable Spoofer and cheats on the market. Instant delivery.",
     url: "https://mintzcheatz.vercel.app/", // vercel url
     siteName: "MintzCheatz",
-    images: [
-      {
-        url: "/images/mintzcheatz.jpg",
-        width: 1200,
-        height: 630,
-        alt: "MintzCheatz Preview",
-      },
-    ],
     locale: "en_US",
     type: "website",
   }
