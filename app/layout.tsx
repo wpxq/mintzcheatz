@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     siteName: "MintzCheatz",
     images: [
       {
-        url: "/mintzcheatz.jpg",
+        url: "/images/mintzcheatz.jpg",
         width: 1200,
         height: 630,
         alt: "MintzCheatz Preview",
