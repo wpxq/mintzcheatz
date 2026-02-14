@@ -4,6 +4,7 @@ import Snow from "@/components/Snow";
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://mintzcheatz.vercel.app'),
   title: {
     default: "MintzCheatz | Undetectable Spoofer & Cheats",
     template: "%s | https://mintzcheatz.vercel.app/" // vercel url
