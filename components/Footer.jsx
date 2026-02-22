@@ -10,7 +10,7 @@ export default function Footer() {
         </div>
         <div className="flex gap-6 text-sm text-gray-400 font-medium">
           <a href="https://discord.gg/57pr8zTuvk" target="blank_" rel="noopener noreferrer" className="hover:text-purple-400 transition-colors">Discord</a>
-          <a href="https://github.com/wpxq" target="_blank" rel="noopener noreferrer" className="hover:text-purple-400 transition-colors">Web Dev Github</a>
+          <a href="https://wpxq.vercel.app/" target="_blank" rel="noopener noreferrer" className="hover:text-purple-400 transition-colors">Developer</a>
         </div>
       </div>
     </footer>
