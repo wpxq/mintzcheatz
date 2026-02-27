@@ -21,7 +21,7 @@ This is my first project developed using the Next.js framework. It is a modern, 
 * **Language:** TypeScript
 
 ## Preview
-![Preview](![Preview](https://github.com/wpxq/mintzcheatz/blob/main/mintzcheatz_preview.png))
+![Preview](https://github.com/wpxq/mintzcheatz/blob/main/mintzcheatz_preview.png)
 
 ## Live Link
 The project is deployed and running at:  
