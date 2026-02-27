@@ -26,6 +26,3 @@ This is my first project developed using the Next.js framework. It is a modern, 
 ## Live Link
 The project is deployed and running at:  
 [https://mintzcheatz.vercel.app/](https://mintzcheatz.vercel.app/)
-
----
-*This project marks my first milestone in learning Next.js and modern web development.*
